@@ -51,4 +51,4 @@ const monthHoroscope = () => {
     }
    
 };
-console.log(monthHoroscope());
+
